@@ -6,3 +6,4 @@ elif decyzja2 == "nie":
   print("a to szkoda")
 else:
   print("Zupa z węży jest nektarem i ambrozją dla osób z dobrze wykształconym podniebieniem")
+print("xd")

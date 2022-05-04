@@ -1,0 +1,8 @@
+print("Czy chcesz żebym ugotował Ci zupę z węży?")
+decyzja1 = str(input())
+if decyzja1 == "tak":
+  print("Smacznego")
+elif decyzja2 == "nie":
+  print("a to szkoda")
+else:
+  print("Zupa z węży jest nektarem i ambrozją dla osób z dobrze wykształconym podniebieniem")

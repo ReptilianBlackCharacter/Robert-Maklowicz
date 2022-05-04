@@ -5,6 +5,7 @@ if decyzja1 == "tak":
 elif decyzja2 == "nie":
   print("a to szkoda")
 else:
+  for i in range(0, 30, 2)
+    print(i)
   print("Zupa z węży jest nektarem i ambrozją dla osób z dobrze wykształconym podniebieniem")
-print("xd")
-print("uuuuuu wowont")
+
